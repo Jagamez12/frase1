@@ -1,0 +1,54 @@
+.parte1{
+    background-color: white;
+    padding: 0%;
+    
+    color: black;
+    height: 500px;
+    width: 500px;
+    text-align: right;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parte2{
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: -500px;
+    left: 500px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.este{
+    font-size: 40px;
+    padding: 0%;
+    margin-top: 0%;
+    height: 40px;
+}   
+.TRABAJO{
+    font-size: 80px;
+    padding: 0%;
+    margin: 0%;
+    height: 80px;
+}
+.sacara{
+    font-size: 60px;
+    padding: 0%;
+    margin: 0%;
+    height: 60px;
+}
+.UN{
+    font-size: 50px;
+    padding: 0%;
+    height: 50px;
+    margin: 0%;
+}
+.cinco{
+    margin-top: 0px;
+    height: 90px;
+    font-size: 90px;
+    padding: -1px;
+    
+}
